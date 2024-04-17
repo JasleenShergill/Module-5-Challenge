@@ -8,7 +8,7 @@ Pymaceuticals, Inc. is on a mission to combat cancer with innovative drug regime
 **Project Structure**
 
 **Prepare the Data:** Merge and clean the study data to ensure accurate analysis.  
-**Generate Summary Statistics: **Calculate key statistics to understand the performance of each drug regimen.  
+**Generate Summary Statistics:** Calculate key statistics to understand the performance of each drug regimen.  
 **Create Visualizations:** Bring the data to life with engaging bar charts, pie charts, and more!  
 **Identify Outliers and Trends:** Explore outliers, trends, and correlations to gain deeper insights into treatment efficacy.  
 
